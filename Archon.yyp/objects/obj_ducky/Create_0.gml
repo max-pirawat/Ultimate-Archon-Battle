@@ -5,4 +5,4 @@ sprite_u = spr_ducky_u;
 
 bullet = get_bullet_damage(obj_ducky_bullet);
 
-desc = "Don't get fool by its cuteness."
+desc = "Strongest creature in all living things. Don't get fool by its cuteness."

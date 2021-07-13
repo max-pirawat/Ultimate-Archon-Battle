@@ -4,4 +4,4 @@ sprite_d = spr_kirby_d;
 sprite_u = spr_kirby_u;
 bullet = get_bullet_damage(obj_kirby_bullet);
 
-desc = "YOPO"
+desc = "A warrior from a distant star system. YOPO"
