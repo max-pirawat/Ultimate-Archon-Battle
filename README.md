@@ -5,8 +5,12 @@ This is CS50 final project.
 
 ## Gameplay
 
+![Screenshot 2021-07-14 010520](https://user-images.githubusercontent.com/60696957/125503149-04f380c0-50a6-4615-9e97-ea0fe825f539.png)
+
 The objective is to eliminate the other team. The game is played on 8x8 chessboard. Player take turns moving pieces. Some pieces can only walk.
 This means you can't walk through enemies and friends. The other pieces can fly. This means you can fly over anyone.
+
+![Screenshot 2021-07-14 010625](https://user-images.githubusercontent.com/60696957/125503178-31841b14-04a5-4b3d-b451-ab0d4f5b7546.png)
 
 When two pieces meet, the battle happens until someone dies. In battle there will be bushes. Bushes will protect you from bullets. 
 But beware! The bushes can disappear. There can also be apples. Green apples can heal you 5 hp. Red apples will give powerup. For yellow, you will shoot faster.
@@ -21,5 +25,7 @@ Yellow team controls:
 Purple team controls:
 - move is arrow keys
 - select/shoot is enter
+
+Please ESC to exit the game.
 
 Some keyboard will not respond to too many simultaneously keystrokes. You can plug in external keyboard and play separately.
