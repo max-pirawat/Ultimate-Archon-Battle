@@ -1,0 +1,1 @@
+alarm[ALRM_APPLE] = random(30) * room_speed;

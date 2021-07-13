@@ -1,0 +1,6 @@
+TODO
+Add new map
+Add weather(wind rain thunder snow)
+call renforceedment
+Add spells
+MAKE IT LIKE WAR OF LANCE + ARCHON 
