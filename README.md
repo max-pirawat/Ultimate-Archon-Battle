@@ -1,5 +1,6 @@
 # Ultimate Archon Battle
 #### Video Demo: https://youtu.be/cN_RSi7hjDM
+#### Github: https://github.com/max-pirawat/Ultimate-Archon-Battle
 #### Description:
 Two-player battle game with extra fun! Made with Gamemaker Studio 2. The game is inspired by Archon (1983).
 
