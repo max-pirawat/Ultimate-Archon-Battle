@@ -30,17 +30,12 @@ if(fighting_player[0] != noone)
 			{
 				board[player_y[player_turn],player_x[player_turn]] = fighting_player[i];
 			
-				with(fighting_player[i]) {
-				x = pos_x * 128 + 512 ;
-				y = pos_y * 128 + 96;
-				}
+				fighting_player[i].x = fighting_player[i].pos_x * 128 + 512;
+				fighting_player[i].y = fighting_player[i].pos_y * 128 + 96;
 			}
-		
 			else
 			{
-				with(fighting_player[i]) {
-                    instance_destroy();
-                }
+                instance_destroy(fighting_player[i]);
                 if (i==0) {
                     set_yellow_frame(noone);                    
                 } else {

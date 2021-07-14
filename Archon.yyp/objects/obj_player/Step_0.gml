@@ -11,13 +11,13 @@ if(global.in_battle)
 		fire_damage_counter--;
 	
 		if(fire_damage_counter % fire_damage_steps == 0) {
-			hitpoint -= fire_damage;
-            if hitpoint < 0 hitpoint = 0;
-			if(hitpoint <= 0) {
-				event_user(EVT_DIE);
-			} else{
-				event_user(EVT_DAMAGE);
-			}
+			if (fire_damage < hitpoint) {
+                hitpoint -= fire_damage;
+                event_user(EVT_DAMAGE);
+            } else {
+                hitpoint = 0;
+                event_user(EVT_DIE);
+            }
 		}
 	}
 
