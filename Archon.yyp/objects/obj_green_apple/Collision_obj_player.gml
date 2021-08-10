@@ -2,6 +2,7 @@
 /// @DnDVersion : 1
 /// @DnDHash : 7B08D254
 /// @DnDArgument : "soundid" "sfx_coin_cluster6"
+/// @DnDSaveInfo : "soundid" "sfx_coin_cluster6"
 audio_play_sound(sfx_coin_cluster6, 0, 0);
 
 /// @DnDAction : YoYo Games.Instances.Call_User_Event

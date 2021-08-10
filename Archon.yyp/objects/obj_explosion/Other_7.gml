@@ -7,4 +7,5 @@ instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 67D96BEF
 /// @DnDArgument : "room" "rm_board"
+/// @DnDSaveInfo : "room" "rm_board"
 room_goto(rm_board);
