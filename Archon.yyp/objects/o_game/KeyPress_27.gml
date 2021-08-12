@@ -1,2 +1,8 @@
 /// @description End the game
-game_end();
+
+if os_browser == browser_not_a_browser {
+	game_end();
+} else {
+	// Buggy
+	// game_restart();	
+}

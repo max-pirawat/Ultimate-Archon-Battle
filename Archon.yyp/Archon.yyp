@@ -16,6 +16,7 @@
     {"id":{"name":"obj_move_yellow","path":"objects/obj_move_yellow/obj_move_yellow.yy",},"order":3,},
     {"id":{"name":"spr_musketeer_h","path":"sprites/spr_musketeer_h/spr_musketeer_h.yy",},"order":25,},
     {"id":{"name":"spr_musketeer_d","path":"sprites/spr_musketeer_d/spr_musketeer_d.yy",},"order":27,},
+    {"id":{"name":"o_scaler","path":"objects/o_scaler/o_scaler.yy",},"order":2,},
     {"id":{"name":"spr_musketeer_u","path":"sprites/spr_musketeer_u/spr_musketeer_u.yy",},"order":29,},
     {"id":{"name":"spr_musketeer_bullet","path":"sprites/spr_musketeer_bullet/spr_musketeer_bullet.yy",},"order":31,},
     {"id":{"name":"spr_bucketman_h","path":"sprites/spr_bucketman_h/spr_bucketman_h.yy",},"order":33,},
